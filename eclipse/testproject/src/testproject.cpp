@@ -11,6 +11,6 @@ using namespace std;
 
 int main() {
 	cout << "Hello master Marcel" << endl; // prints 2 Hello Marcel World
-	cout << "Add master change"
+	cout << "Add master change" << endl;
 	return 0;
 }
